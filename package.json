@@ -1,7 +1,7 @@
 {
   "name": "react-credit-card-component-starter",
   "version": "1.0.0",
-  "description": "",
+  "description": "Starter project for the tutorial https://www.renjith.co/create-a-credit-card-component-with-react/",
   "main": "index.js",
   "scripts": {
     "start": "parcel ./src/index.html"
