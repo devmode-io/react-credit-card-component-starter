@@ -3,10 +3,27 @@
     <head>
         <title>React starter app</title>
         <link href="https://fonts.googleapis.com/css?family=Fjalla+One" rel="stylesheet"> 
-        <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet"> 
+        <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+        <style>
+            html,
+            body {
+                padding: 0px;
+                margin: 0px;
+	            height: 100%;
+            }
+
+            .container {
+                height: 100%;
+                
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+                justify-content: center;
+            }
+        </style>
     </head>
     <body>
-        <div id="app"></div>
+        <div id="app" class="container"></div>
         
         <script src="index.js"></script>
     </body>
