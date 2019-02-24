@@ -19,7 +19,7 @@
   "homepage": "https://github.com/renjithgr/react-credit-card-component-starter#readme",
   "dependencies": {
     "react": "^16.8.3",
-    "react-dom": "^16.4.2"
+    "react-dom": "^16.8.3"
   },
   "devDependencies": {
     "babel-preset-env": "^1.7.0",
